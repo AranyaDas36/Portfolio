@@ -56,27 +56,36 @@ export const PROJECTS = [
   //   technologies: ["HTML", "CSS", "Angular", "Firebase"],
   // },
   {
-    url: "https://news-vista.vercel.app/",
-    title: "News Vista",
-    image: news,
-    description:
-      "Developed a news website using ReactJS as the frontend framework. Implemented responsive design principles for cross-platform compatibility. Integrated third-party news APIs to fetch and display real-time news content. Utilized version control systems for project management and collaboration.",
-    technologies: ["HTML", "TailwindCSS", "ReactJS"],
-  },
-  {
-    title: "Ed Tech Project",
+    url: "https://travelco-umber.vercel.app/",
+    title: "Travel Co.",
     image: ed,
     description:
-      "Designed a dynamic and interactive front-end utilizing ReactJS, optimizing its component-based architecture to boost user engagement and ensure maintainability. Built a robust backend with Node.js, resulting in improved API response times and reduced server latency. Implemented secure authentication and session management using ExpressJS, JWT tokens, and cookies, ensuring efficient data processing and enhanced reliability.",
-    technologies: ["HTML", "TailwindCSS", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
+      "Built a full-stack travel booking platform using ReactJS, Node.js, Express, and MongoDB to provide seamless booking experiences. Implemented robust role-based authentication and session management to ensure secure user access.",
+    technologies: ["HTML", "TailwindCSS", "ReactJS", "Typescript", "Node.js", "mongoDB", "expressJS"],
   },
+  // {
+  //   title: "Ed Tech Project",
+  //   image: ed,
+  //   description:
+  //     "Designed a dynamic and interactive front-end utilizing ReactJS, optimizing its component-based architecture to boost user engagement and ensure maintainability. Built a robust backend with Node.js, resulting in improved API response times and reduced server latency. Implemented secure authentication and session management using ExpressJS, JWT tokens, and cookies, ensuring efficient data processing and enhanced reliability.",
+  //   technologies: ["HTML", "TailwindCSS", "ReactJS", "NodeJS", "MongoDB", "ExpressJS"],
+  // },
   {
-    title: "Portfolio Website",
+    url: "https://yard-stick.vercel.app/",
+    title: "ExpensifyMe",
     image: project3,
     description:
-      "A personal portfolio website showcasing projects, skills, and contact information.",
-    technologies: ["HTML", "TailwindCSS", "ReactJS"],
+      "A sleek and efficient expense tracker built with Next.js, and MongoDB, designed to help users manage their monthly spending effortlessly.",
+    technologies: ["Next.js", "TypeScript", "MongoDB", "Express", "Node.js", "TailwindCSS"]
   },
+  {
+    url: "https://blog-website-serverless-backend.vercel.app/signin",
+    title: "Serverless Blog",
+    image: ed,
+    description:
+      "Developed a highly scalable serverless blog website using Hono (Cloudflare Workers) with Node.js and ReactJS.",
+    technologies: ["HTML", "TailwindCSS", "ReactJS", "Node.js", "Typescript", "mongoDB", "Hono", "Cloudflare"],
+  }
   // {
   //   title: "Blogging Platform",
   //   image: project4,

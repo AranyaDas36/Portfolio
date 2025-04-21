@@ -20,7 +20,7 @@ export default function App() {
               
               <Hero></Hero>
               <Technologies></Technologies>
-              
+              <Projects></Projects>
               
           </div>
       </div>
