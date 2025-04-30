@@ -27,7 +27,7 @@ const About = () => {
         </div>
 
         <div>
-          <h2 className='text-3xl bg-white-300 font-bold inline-block mb-3'>Technical Skilla: </h2>
+          <h2 className='text-3xl bg-white-300 font-bold inline-block mb-3'>Technical Skills: </h2>
           <div className='flex flex-wrap gap-4'>
             {['ReactJS', 'TailwindCSS', 'Node.js', 'ExpressJS', 'MongoDB', 'PostgreSQL', 'Prisma', 'Hono', 'Serverless Backend', 'AWS'].map((tool) => (
               <span key={tool} className='text-black bg-gray-100 font-bold border px-3 py-1 rounded'>{tool}</span>

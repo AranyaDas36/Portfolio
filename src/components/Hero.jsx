@@ -38,7 +38,7 @@ const Hero = () => {
             initial="hidden"
             animate="visible"
             className='text-neutral-400 mb-6 text-base sm:text-lg leading-relaxed'>
-            I'm a full-stack developer with a strong focus on building robust and scalable web applications. My expertise spans front-end technologies like React and Next.js, alongside back-end systems using Node.js, MySQL, PostgreSQL, and MongoDB.
+            I'm a full-stack developer with a strong focus on building robust and scalable web applications. My expertise spans front-end technologies like React and Next.js, alongside back-end systems using Node.js, Express.js, PostgreSQL, and MongoDB.
           </motion.p>
           <motion.div
             variants={container(1.5)}
