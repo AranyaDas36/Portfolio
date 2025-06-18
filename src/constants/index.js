@@ -76,7 +76,7 @@ export const PROJECTS = [
     image: project3,
     description:
       "A sleek and efficient expense tracker built with Next.js, and MongoDB, designed to help users manage their monthly spending effortlessly.",
-    technologies: ["Next.js", "TypeScript", "MongoDB", "Express", "Node.js", "TailwindCSS"]
+    technologies: ["Next.js", "TypeScript", "MongoDB", "ExpressJS", "Node.js", "TailwindCSS"]
   },
   {
     url: "https://blog-website-serverless-backend.vercel.app/signin",
@@ -85,6 +85,14 @@ export const PROJECTS = [
     description:
       "Developed a highly scalable serverless blog website using Hono (Cloudflare Workers) with Node.js and ReactJS.",
     technologies: ["HTML", "TailwindCSS", "ReactJS", "Node.js", "Typescript", "mongoDB", "Hono", "Cloudflare"],
+  },
+    {
+    url: "streaming-platform-eight-lilac.vercel.app",
+    title: "Streaming Platform",
+    image: project3,
+    description:
+      "Developed a productivity-focused web application to save and organize posts or links from platforms like Twitter, YouTube, and more for later reference.",
+    technologies: ["ReactJS", "TailwindCSS", "Node.js", "Typescript", "mongoDB", "ExpressJS"],
   }
   // {
   //   title: "Blogging Platform",
