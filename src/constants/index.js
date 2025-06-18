@@ -87,7 +87,7 @@ export const PROJECTS = [
     technologies: ["HTML", "TailwindCSS", "ReactJS", "Node.js", "Typescript", "mongoDB", "Hono", "Cloudflare"],
   },
     {
-    url: "streaming-platform-eight-lilac.vercel.app",
+    url: "https://streaming-platform-eight-lilac.vercel.app/signin",
     title: "Streaming Platform",
     image: project3,
     description:
